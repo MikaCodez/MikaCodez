@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikaCodez
-- 👀 I’m interested in Front-end Web design and Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-end Web design and training to become a Full Stack Developer
+- 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me on twitter @CodezMikazuki
 

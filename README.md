@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me on twitter @CodezMikazuki
+- :computer:Find more of my work on my website https://malczcodez.online/
 
 <!---
 MikaCodez/MikaCodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
